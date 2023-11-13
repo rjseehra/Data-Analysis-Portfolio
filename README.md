@@ -3,7 +3,7 @@ Data Analysis Portfolio
 
 
 # [Particle Physics Research (MOLLER Group)](https://github.com/rjseehra/generatoranalysis)
-A set of analysis python scripts created to run over large root files returned from particle generation simulations. The main functionality of these scripts is to provide standardized particle rate comparisons to provide insight on the optimization of a detector system being created for JeffersonLab in Virginia, USA. Utilizing python and its packages (namely NumPy, Pandas, matplotlib, and upRoot), as well as keen understanding of root file structure, efficient analysis was obtained for varying parameters within the detector system. 
+A set of analysis python scripts created to run over large root files returned from particle generation simulations. The main functionality of these scripts is to provide standardized particle rate comparisons to provide insight on the optimization of a detector system being created for JeffersonLab in Virginia, USA. Utilizing python and its packages (namely NumPy, Pandas, matplotlib, and upRoot), as well as R and a keen understanding of root file structure, efficient analysis was obtained for varying parameters within the detector system. 
 
 # [Webscraper using Selenium](https://github.com/rjseehra/webscrapingwithselenium)
 A personal project of mine to simplify my weekly calendar. Using Selenium and NumPy, this scrapes a shift scheduling site for my weekly shifts to circumvent login and webpage navigation. Shift data is retrieved and formatted into an array iterated by day, date, and time. 
