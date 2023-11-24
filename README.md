@@ -10,3 +10,9 @@ A personal project of mine to simplify my weekly calendar. Using Selenium and Nu
 
 # [SQL for Data Science Coursera Capstone Project](https://github.com/rjseehra/SQL_for_Data_Science)
 Utilizing a Yelp dataset filled with business data, I profiled and came up with detailed analysis and points of inference to help better understand the trends hidden in the dataset. This was a SQL focused project coupled with a creative and analytic problem solving approach. Upon completion of this Capstone project, I successfully attained certification in the SQL for Data Science course on Coursera. 
+
+# [Camera Cleaning](https://github.com/rjseehra/CameraCleaning)
+By reorganizing and cleaning up a datatset, I set up an aggregated form of the data that was then used for a Pivot Table within Excel. The further analysis done provides an easier and more convenient way to compare different Camera brands and their different characteristics, mainly those that would be considered during purchase. 
+
+# [Cereal Data Cleaning](https://github.com/rjseehra/Cereal_Data_Cleaning)
+Taking a chaotic dataset that has limited structure, I correctly profiled, organized, and cleaned the data to provide both easier readability and data structure. This was done through Excel and therefore through the usage of Excel tools. 
